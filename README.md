@@ -133,5 +133,5 @@ The plots for the all the parts and the number of packets dropped for each netwo
 
 
 ## Author
-* Name : [Gaurav Jain](https://github.com/GAURAV-28/)
+* Name : [Gaurav Jain](https://github.com/GauravJain28/)
 * Entry Number : 2019CS10349
